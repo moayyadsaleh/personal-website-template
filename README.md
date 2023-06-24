@@ -24,3 +24,7 @@ In the "About Me" section, a brief introduction and highlights skills highlights
 
 The "Portfolio" section showcases selected projects, these projects are just placeholders. 
 Each project is presented with an image, technology icons, a brief description, and links to view the source code and try it live.
+
+
+![Portfolio-template](https://github.com/moayyadsaleh/personal-website-template/assets/137034202/a8116971-123f-4b5e-9078-a7f801a43953)
+
